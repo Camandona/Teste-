@@ -7,7 +7,7 @@
 body.home{
     min-height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-                url("../foto_legal.jpeg");
+                url("foto_legal.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -18,7 +18,7 @@ body.home{
 body.end{
     min-height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-                url("../sonic_espaco.jpeg");
+                url("sonic_espaco.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
